@@ -154,7 +154,7 @@ $$
 
 
 $$
-L=-\frac{1}{N}\sum_{i=1}^{N}\log\frac{\exp(Sim(z_i,z_i’)/\tau)}{\sum_{j=1}^{N}\exp(Sim(z_i,z_j)/\tau)}
+L=-\frac{1}{N}\sum_{i=1}^{N}\log\frac{\exp(Sim(z_i,z_i’)/\tau)}{\sum_{j=1}^{N}\exp(Sim(z_i,z_j')/\tau)}
 $$
 
 $$
